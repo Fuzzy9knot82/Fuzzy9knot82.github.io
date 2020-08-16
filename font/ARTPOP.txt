@@ -1,0 +1,8 @@
+Es una primera version del tipo de fuente de la portada de ARTPOP
+Preferentemente que se use en color rosa
+Solo funciona en mayusculas
+Los signos y numeros no pertenecen al tipo de letra
+
+
+
+Arm Germanotta(:
